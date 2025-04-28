@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TaskLibraryDLLv2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+219190b23b3bbd555a1a3362e59337b94f8ba929")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5eed632725005feab05cc857e5bf8b2edda10dae")]
 [assembly: System.Reflection.AssemblyProductAttribute("TaskLibraryDLLv2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TaskLibraryDLLv2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
